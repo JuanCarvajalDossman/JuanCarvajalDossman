@@ -6,7 +6,7 @@ I am a Biomedical Engineer with a Master's degree in Computational Biology. My e
 
 - Currently working on epilepsy and refractory epilepsy data analysis: single-cell data, epileptic patients genomics, miRNA expression profiles, structural MRI images, and EGG signals.
 
-- Part of the development team for an epilepsy diagnosis application [AI-Epilepsy](https://github.com/SELF-Software-Evolution-Lab/AI-Epilepsy at [Software Evolution Lab (SELF)](https://github.com/SELF-Software-Evolution-Lab)
+- Part of the development team for an epilepsy diagnosis application [AI-Epilepsy](https://github.com/SELF-Software-Evolution-Lab/AI-Epilepsy) at [Software Evolution Lab (SELF)](https://github.com/SELF-Software-Evolution-Lab)
 
 
 # 💻 Tech Stack:
